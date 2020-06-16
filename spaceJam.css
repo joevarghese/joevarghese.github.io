@@ -1,0 +1,11 @@
+body{
+    background-image: url('http://labs.jensimmons.com/2016/examples/images/spacejam/bg_stars.gif');
+}
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:400px;
+      }
+
+
